@@ -14,8 +14,7 @@
 ### 📬 Contact me:
 
 <p align="center">
- 
-  <a href=" https://linkedin.com/in/abdel-raouf-shawki-053735328" target="_blank">
+ <a href="https://linkedin.com/in/abdel raouf shawki" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:abdelraoufshawki@gmail.com" target="_blank">
