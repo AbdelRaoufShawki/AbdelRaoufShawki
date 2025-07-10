@@ -54,13 +54,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelraoufshawki&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
----
-
-### 🧠 Quote for the day:
-> "Clean code always looks like it was written by someone who cares." – Robert C. Martin
-
----
-
-### ⚡ Fun Fact:
-> I once spent 6 hours debugging a semicolon 😅
 
