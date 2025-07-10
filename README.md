@@ -1,67 +1,55 @@
-<!-- 👑 Welcome Header -->
-<h1 align="center">Hey there! 👋 I'm <span style="color:#e34c26">Abdel Raouf Shawki</span></h1>
-<h3 align="center">🚀 Backend Developer | 💻 PHP Artisan | 🧠 Tech Explorer</h3>
+<h1 align="center">Hi 👋, I'm Abdel Raouf Shawki</h1>
+<h3 align="center">🚀 A passionate Backend Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=I+code+clean+backends+in+Laravel;I+build+APIs+and+solve+real+problems;Always+learning%2C+always+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=I'm+a+PHP+%2F+Laravel+Developer;I+build+robust+and+clean+backends;Let's+connect+and+build+something+awesome!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
 </p>
 
 ---
 
-<!-- 💡 About Me -->
-### 👨‍💻 About Me:
-
-- 🔭 Currently working on Laravel & SQL-based backend systems  
-- 🌱 Learning more about system design and performance optimization  
-- 💬 Ask me about anything Laravel, PHP, SQL, or backend performance  
-- ⚡ Fun fact: I sometimes refactor code for fun (yes, really)  
-- 📫 Reach me at: `your.email@example.com`  
-
----
-
-<!-- 🚀 Tech Stack -->
-### 🧰 Tech Stack:
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mssql,postman,html,css,bootstrap,git,vscode" />
-</div>
-
----
-
-<!-- 🔗 Socials -->
-### 🌐 Let’s Connect:
+### 📬 Contact me:
 
 <p align="center">
   <a href="https://linkedin.com/in/abdelraoufshawki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/abdelraoufshawki" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
 
 ---
 
-<!-- 📊 Stats -->
-### 📈 GitHub Stats:
+### 🛠️ Languages and Tools:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelraoufshawki&theme=radical&show_icons=true&count_private=true&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelraoufshawki&theme=radical&hide_border=true" width="49%"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelraoufshawki&theme=radical&layout=compact&hide_border=true&langs_count=8" width="60%"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-<!-- ⚙️ Tools I Use -->
-### 🛠️ Development Environment:
+### 📊 GitHub Stats:
 
-```bash
-🧠 OS: Windows / Linux
-👨‍💻 Editor: VS Code (with dark+ theme)
-🔧 Tools: Git, Postman, XAMPP, DB Designer
-🔐 Skills: Problem-solving, Debugging, REST APIs
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelraoufshawki&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelraoufshawki&theme=tokyonight" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelraoufshawki&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
